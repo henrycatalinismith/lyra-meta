@@ -3,6 +3,7 @@
     "lyra": "git@github.com:zetkin/lyra.git",
     "test-001": "git@github.com:henrycatalinismith/lyra-test-001.git",
     "test-002": "git@github.com:henrycatalinismith/lyra-test-002.git",
-    "test-003": "/Users/henrycatalinismith/lyra/test-002"
+    "test-003": "git@github.com:henrycatalinismith/lyra-test-003.git"
+    "test-004": "git@github.com:henrycatalinismith/lyra-test-004.git"
   }
 }
