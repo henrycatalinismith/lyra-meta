@@ -1,3 +1,7 @@
-.PHONY: reset_store
-reset_store:
-	rm -f lyra/webapp/store.json
+.PHONY: webapp
+webapp:
+	cd lyra/webapp && npm run dev
+
+.PHONY: status
+status:
+	meta git status
