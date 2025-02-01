@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "lyra": "git@github.com:zetkin/lyra.git",
+    "test-001": "git@github.com:henrycatalinismith/lyra-test-001.git"
+  }
 }
